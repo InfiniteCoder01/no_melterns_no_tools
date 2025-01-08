@@ -1,0 +1,3 @@
+{
+  "workspace.library": ["~/.minetest/minetest-lsp-api"]
+}

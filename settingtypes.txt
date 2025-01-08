@@ -1,0 +1,2 @@
+#Make wood only craftable with an axe
+no_melterns_no_tools_no_wood (No Wood) bool false
