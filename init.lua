@@ -170,8 +170,8 @@ nmnt.remove_material("default", "gold", false, true)
 nmnt.remove_material("default", "tin", false, true)
 nmnt.remove_material("default", "mese", true, false)
 nmnt.remove_material("default", "diamond", true, false)
-if core.get_modpath("etherial") then
-    nmnt.remove_material("etherial", "crystal", true, false)
+if core.get_modpath("ethereal") then
+    nmnt.remove_material("ethereal", "crystal", true, false)
 end
 
 if core.settings:get_bool("no_melterns_no_tools_no_wood") then
